@@ -94,9 +94,6 @@ export default defineComponent({
   margin-bottom: 0
   margin-right: 15px
 
-.v-application--is-ltr .v-list-group--no-action > .v-list-group__items > .v-list-item
-  padding-left: 32px
-
 .company-name
   font-size: 1.25rem
   font-weight: bold
